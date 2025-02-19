@@ -1,10 +1,13 @@
-## 🔗 Vista del Proyecto
-
-Puedes ver el proyecto en vivo aquí: [Ver Proyecto](https://url-shortening-api-landing-page-main-jvj8qjpwv.vercel.app/)
 
 # Frontend Mentor - Reto API de Acortador de URLs
 
 ![Vista del diseño del reto de acortador de URLs](./design/desktop-preview.jpg)
+
+
+## 🔗 Vista del Proyecto
+
+Puedes ver el proyecto en vivo aquí: [Ver Proyecto](https://url-shortening-api-landing-page-main-jvj8qjpwv.vercel.app/)
+
 
 ## 📌 Descripción
 
