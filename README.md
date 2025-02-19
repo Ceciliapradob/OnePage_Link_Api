@@ -1,3 +1,7 @@
+## 🔗 Vista del Proyecto
+
+Puedes ver el proyecto en vivo aquí: [Ver Proyecto](https://url-shortening-api-landing-page-main-jvj8qjpwv.vercel.app/)
+
 # Frontend Mentor - Reto API de Acortador de URLs
 
 ![Vista del diseño del reto de acortador de URLs](./design/desktop-preview.jpg)
@@ -34,9 +38,6 @@ Este es un reto de [Frontend Mentor](https://www.frontendmentor.io/) donde se de
 - ✅ Permite copiar fácilmente el enlace acortado con un solo clic.
 - ⚠️ Muestra mensajes de error si el campo de entrada está vacío.
 
-## 🔗 Vista del Proyecto
-
-Puedes ver el proyecto en vivo aquí: [Ver Proyecto](https://url-shortening-api-landing-page-main-jvj8qjpwv.vercel.app/)
 
 ## 📂 Estructura del Proyecto
 
